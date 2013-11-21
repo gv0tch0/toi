@@ -1,4 +1,4 @@
-# toi          [![Build Status](https://travis-ci.org/gv0tch0/toi.png)](https://travis-ci.org/gv0tch0/toi)
+# toi [![Build Status](https://travis-ci.org/gv0tch0/toi.png)](https://travis-ci.org/gv0tch0/toi)
 
 A [travis-ci](https://travis-ci.org/) [openshift](https://www.openshift.com/) integration toy for java (on maven) projects that deviate from the OpenShift prescribed project structure (single module).
 
