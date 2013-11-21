@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.gv0tch0.toi</groupId>
+  <artifactId>toi</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>toi</name>
+  <description>travis opeshift integration toy.</description>
+  <url>https://github.com/gv0tch0/toi</url>
+
+  <developers>
+    <developer>
+      <id>nkolev</id>
+      <name>Nik Kolev</name>
+      <email>gv0tch0@gmail.com</email>
+    </developer>
+  </developers>
+
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/gv0tch0/toi/issues/new</url>
+  </issueManagement>
+
+</project>
+
